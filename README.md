@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/gh/ozayr/ML-microservice.svg?style=svg)](<LINK>)
+[![ozayr](https://circleci.com/gh/ozayr/ML-microservice.svg?style=svg)](<LINK>)
 
 
 ## Project Overview
