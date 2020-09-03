@@ -1,1 +1,5 @@
-<paste log output from Kubernetes-mediated prediction, here>
+NAME                               READY   STATUS    RESTARTS   AGE
+house-predictor-5d6b94c75b-6mxsz   1/1     Running   0          29m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
